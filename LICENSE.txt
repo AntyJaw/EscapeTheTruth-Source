@@ -1,0 +1,8 @@
+Copyright (c) 2025 Veles Studio. All rights reserved.
+
+The code portions of this repository may be distributed under the MIT License.
+All narrative content, language systems, runes, graphical assets and game universe are property of Veles Studio and protected under custom terms.
+
+No part of this project may be reproduced, used commercially, or remixed without explicit written permission.
+
+For inquiries, contact: veles.studio.contact@gmail.com
