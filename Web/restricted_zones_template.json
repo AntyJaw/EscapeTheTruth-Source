@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "created": "2025-04-16T13:56:54.039126",
+        "description": "Lista typ\u00f3w lokalizacji wykluczonych z generowania misji w grze Escape The Truth."
+    },
+    "restricted_types": [
+        "church",
+        "mosque",
+        "synagogue",
+        "temple",
+        "cemetery",
+        "school",
+        "kindergarten",
+        "hospital",
+        "clinic",
+        "nursing_home",
+        "government_building",
+        "military_area",
+        "police_station",
+        "private_property",
+        "religious_site_other"
+    ],
+    "notes": {
+        "church": "Ko\u015bci\u00f3\u0142 katolicki lub protestancki",
+        "mosque": "Meczet \u2013 miejsce modlitwy muzu\u0142ma\u0144skiej",
+        "synagogue": "Synagoga \u2013 \u015bwi\u0105tynia judaistyczna",
+        "temple": "Inne \u015bwi\u0105tynie religijne (np. buddyjskie, hinduistyczne)",
+        "cemetery": "Cmentarze ka\u017cdego typu",
+        "school": "Szko\u0142y podstawowe, \u015brednie, wy\u017csze",
+        "kindergarten": "Przedszkola i \u017c\u0142obki",
+        "hospital": "Szpitale, SOR, OIOM",
+        "clinic": "Przychodnie, punkty zdrowia",
+        "nursing_home": "Domy opieki, DPS-y",
+        "government_building": "Urz\u0119dy miejskie, wojew\u00f3dzkie, s\u0105dy",
+        "military_area": "Koszary, obiekty wojskowe, poligony",
+        "police_station": "Komendy policji, posterunki",
+        "private_property": "Tereny ogrodzone, osiedla zamkni\u0119te",
+        "religious_site_other": "Inne obiekty kultu religijnego niewymienione powy\u017cej"
+    }
+}
