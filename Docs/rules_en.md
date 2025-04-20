@@ -108,5 +108,21 @@ All characters, organizations, events, proper names, and rituals in the game are
 
 ---
 
+## §14. Real-World Activity Disclaimer
+
+1. Players engage with the real-world environment at their own risk.
+2. The game does not promote trespassing, illegal behavior, or unsafe actions.
+3. Veles Studio is not responsible for any real-life incidents, including accidents, fines, or disputes resulting from gameplay.
+4. Players are expected to act responsibly, respect their surroundings, and comply with local laws.
+
+---
+
+## §15. Location Data Usage
+
+1. The game uses your device’s location to generate missions and AR features.
+2. Location data is not shared with third parties and is used solely for gameplay.
+3. You may disable location access at any time, but this may limit core game functionality.
+---
+
 **Thank you for being a part of Escape The Truth.  
 You are the whisper that may awaken reality.**
