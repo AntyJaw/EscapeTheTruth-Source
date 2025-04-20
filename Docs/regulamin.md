@@ -108,5 +108,21 @@ Wszystkie postacie, organizacje, wydarzenia, nazwy własne i rytuały przedstawi
 
 ---
 
+## §14. Odpowiedzialność za działania w terenie
+
+1. Gracz korzysta z gry w przestrzeni publicznej i prywatnej na własną odpowiedzialność.
+2. Gra nie zachęca do łamania prawa, wchodzenia na teren prywatny ani podejmowania działań niebezpiecznych.
+3. Veles Studio nie ponosi odpowiedzialności za skutki działań gracza poza aplikacją – w szczególności za wypadki, mandaty, konflikty z osobami trzecimi.
+4. Gracz zobowiązany jest do zachowania ostrożności, szacunku wobec otoczenia i stosowania się do lokalnych przepisów.
+
+---
+
+## §15. Dane lokalizacyjne
+
+1. Gra korzysta z lokalizacji urządzenia w celu generowania misji i funkcji AR.
+2. Dane lokalizacyjne nie są udostępniane osobom trzecim i służą wyłącznie do działania gry.
+3. Gracz może w każdej chwili wyłączyć dostęp do lokalizacji, lecz może to ograniczyć funkcjonalność gry.
+---
+
 **Dziękujemy za bycie częścią świata Escape The Truth.  
 Jesteś szeptem, który może przebudzić rzeczywistość.**
