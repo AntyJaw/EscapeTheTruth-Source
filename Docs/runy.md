@@ -10,7 +10,7 @@ Jezyk runiczny Veles Studio to autorski system rytualnej komunikacji inspirowany
 3. **FONEMY**
 Kazda runa posiada unikalna artykulacje fonetyczna (mu, dru, nai, vel...)
 
-4. **SKADNIA**
+4. **SKLADNIA**
 Szyk: Czasownik + Intencja + Cel
 
 5. **PRZYKADOWE RYTUAY**
@@ -38,6 +38,11 @@ MGŁA PRZEMAWIA RUNAMI
 – Chaos, transformacja, ukrycie prawdy,
 – Władza nad zmarłymi, bogactwem, podziemiem i ezoteryką.
 
+**Zastosowanie:**
+– Występuje w oczodole czaszki Welesa jako znak jego istoty,
+– Może być przywoływana w rytuałach przyzywania, ochrony i ukrycia,
+– Symbol kapłanów przejścia, przewodników dusz, mistrzów wiedzy ukrytej.
+
 ---
 
 ## Runa: Zaj’Trasz – Znak Pierwszego Wejrzenia
@@ -47,12 +52,18 @@ MGŁA PRZEMAWIA RUNAMI
 **Symbol:** Rytualna runa składająca się z:
 – hakowatych ramion Zajven jako głównej struktury (odsłonięcie zasłony),
 – wewnętrznych łuków Trasz symbolizujących introspekcję i duchowe zanurzenie.
+– może być zapisana jako podwójna runa z centralną osią pionową i wewnętrzną krzywizną.
 
 **Znaczenie rytualne:**
 – Pierwsze Wejrzenie – stan osiągany tylko przez tych, którzy ukończą Przesilenie Welesa w 100%,
 – Umożliwia dostęp do Widma Gontarza,
 – Odblokowuje stabilną ezoterykę,
 – Wzmacnia percepcję rytualną.
+– Służy jako pieczęć kontaktu z pradawną prawdą.
+
+**Zastosowanie w świecie gry:**
+– Pojawia się w rytuałach związanych z retrospekcją, ujawnieniem, przebiciem zasłony,
+– Może być wykorzystana do otwierania ukrytych treści w lokacjach lub w dzienniku gracza.
 
 ---
 
@@ -84,26 +95,6 @@ MGŁA PRZEMAWIA RUNAMI
 
 > Runa Mokoszy pojawia się tylko tym, którzy zaakceptowali stratę, oddali coś cennego i nie oczekiwali nic w zamian.
 
-## Runa: Zaj'Trasz – Znak Pierwszego Wejrzenia
-
-**Pochodzenie:** połączenie dwóch run – *Zajven* (odsłonięcie) i *Trasz* (wejrzenie).
-
-**Symbol:** Rytualna runa składająca się z:
-– hakowatych ramion Zajven jako głównej struktury (odsłonięcie zasłony),
-– wewnętrznych łuków Trasz symbolizujących introspekcję i duchowe zanurzenie,
-– może być zapisana jako podwójna runa z centralną osią pionową i wewnętrzną krzywizną.
-
-**Znaczenie rytualne:**
-– *Pierwsze Wejrzenie* – stan osiągany tylko przez tych, którzy ukończą Przesilenie Welesa w 100%,
-– Umożliwia dostęp do Widma Gontarza,
-– Odblokowuje stabilną ezoterykę,
-– Wzmacnia percepcję rytualną,
-– Służy jako pieczęć kontaktu z pradawną prawdą.
-
-**Zastosowanie w świecie gry:**
-– Pojawia się w rytuałach związanych z retrospekcją, ujawnieniem, przebiciem zasłony,
-– Może być wykorzystana do otwierania ukrytych treści w lokacjach lub w dzienniku gracza.
-
 ---
 
 ## Runa: Zajven – Odsłonięcie
@@ -113,20 +104,6 @@ MGŁA PRZEMAWIA RUNAMI
 ## Runa: Trasz – Wejrzenie
 
 **Znaczenie:** Wgląd w pamięć duchową, introspekcja.
-
-## Runa: Welesa – Strażnik Przejścia
-
-**Symbol:** Odwrócone „Y” z zakrzywionymi końcówkami – przypomina korzeń sięgający trzech kierunków.
-
-**Znaczenie:**
-– Przejście między światami,
-– Chaos, transformacja, ukrycie prawdy,
-– Władza nad zmarłymi, bogactwem, podziemiem i ezoteryką.
-
-**Zastosowanie:**
-– Występuje w oczodole czaszki Welesa jako znak jego istoty,
-– Może być przywoływana w rytuałach przyzywania, ochrony i ukrycia,
-– Symbol kapłanów przejścia, przewodników dusz, mistrzów wiedzy ukrytej.
 
 ---
 
