@@ -85,6 +85,11 @@ Wszystkie postacie, organizacje, wydarzenia, nazwy własne i rytuały przedstawi
 
 ---
 
+**Dziękujemy za bycie częścią świata Escape The Truth.  
+Jesteś szeptem, który może przebudzić rzeczywistość.**
+
+---
+
 ## §12. Testy wersji beta i MVP
 
 1. Udział w testach wersji beta (zamkniętej lub otwartej) oraz MVP gry „Escape The Truth” oznacza akceptację niniejszego regulaminu oraz zasad przekazanych testerom drogą mailową, Discord lub wewnątrz aplikacji.
@@ -117,12 +122,35 @@ Wszystkie postacie, organizacje, wydarzenia, nazwy własne i rytuały przedstawi
 
 ---
 
-## §15. Dane lokalizacyjne
+## §15. Dane lokalizacyjne. 
 
 1. Gra korzysta z lokalizacji urządzenia w celu generowania misji i funkcji AR.
 2. Dane lokalizacyjne nie są udostępniane osobom trzecim i służą wyłącznie do działania gry.
 3. Gracz może w każdej chwili wyłączyć dostęp do lokalizacji, lecz może to ograniczyć funkcjonalność gry.
+
 ---
 
-**Dziękujemy za bycie częścią świata Escape The Truth.  
-Jesteś szeptem, który może przebudzić rzeczywistość.**
+## §16. Zbieranie danych analitycznych
+
+1. Gra „Escape The Truth” może zbierać dane techniczne oraz statystyczne w celu poprawy jakości rozgrywki, wykrywania błędów i analizy wydajności.
+2. W ramach testów MVP oraz wersji beta:
+   - zbierane są dane o błędach (logi, crash reports, błędy krytyczne),
+   - dane te są anonimowe i nie zawierają treści prywatnych,
+   - możliwa jest rejestracja działań w grze (np. trasy, wybory, użycie funkcji LINK-13) w celach diagnostycznych.
+3. W wersji finalnej:
+   - dane są zbierane tylko za zgodą użytkownika (zgoda udzielana podczas instalacji lub aktywacji gry),
+   - dane wykorzystywane są wyłącznie do poprawy działania gry i nie są przekazywane osobom trzecim.
+4. Gracz ma prawo do wglądu w dane zbierane przez grę oraz może zażądać ich usunięcia, kontaktując się z [support@velesstudio.space](mailto:support@velesstudio.space).
+5. Veles Studio zobowiązuje się do ochrony prywatności graczy i przestrzegania przepisów RODO / GDPR.
+
+---
+
+## §17. Treści tworzone przez użytkowników
+
+1. Użytkownik zachowuje prawa do treści, które tworzy w grze (np. zgłoszenia, głos LINK-13), ale przyznaje Veles Studio niewyłączne prawo do ich analizy, moderacji i wykorzystania w celach badawczych lub rozwoju gry.
+2. Niedozwolone jest publikowanie treści naruszających prawo, dobre obyczaje lub prawa osób trzecich.
+
+---
+
+Dziękujemy za bycie częścią świata Escape The Truth.
+Jesteś szeptem, który może przebudzić rzeczywistość.

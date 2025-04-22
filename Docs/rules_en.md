@@ -85,6 +85,11 @@ All characters, organizations, events, proper names, and rituals in the game are
 
 ---
 
+**Thank you for being a part of Escape The Truth.  
+You are the whisper that may awaken reality.**
+
+---
+
 ## §12. Beta and MVP Testing Rules
 
 1. Participation in closed/open beta or MVP testing of “Escape The Truth” implies acceptance of these rules and any additional terms shared via email, Discord, or in-game notices.
@@ -109,7 +114,6 @@ All characters, organizations, events, proper names, and rituals in the game are
 ---
 
 ## §14. Real-World Activity Disclaimer
-
 1. Players engage with the real-world environment at their own risk.
 2. The game does not promote trespassing, illegal behavior, or unsafe actions.
 3. Veles Studio is not responsible for any real-life incidents, including accidents, fines, or disputes resulting from gameplay.
@@ -118,11 +122,33 @@ All characters, organizations, events, proper names, and rituals in the game are
 ---
 
 ## §15. Location Data Usage
-
 1. The game uses your device’s location to generate missions and AR features.
 2. Location data is not shared with third parties and is used solely for gameplay.
 3. You may disable location access at any time, but this may limit core game functionality.
+
 ---
 
-**Thank you for being a part of Escape The Truth.  
-You are the whisper that may awaken reality.**
+## §16.Analytics and Data Collection
+
+1. “Escape The Truth” may collect technical and statistical data to improve game quality, fix bugs, and analyze performance.
+2. During MVP and beta testing:
+   - error logs, crash reports, and critical failures may be recorded,
+   - all data is anonymized and contains no private content,
+   - player actions (e.g. routes, decisions, LINK-13 usage) may be tracked for diagnostic purposes.
+3. In the final release:
+   - data collection is subject to user consent (granted during installation or activation),
+   - data is used solely to enhance gameplay and is not shared with third parties.
+4. Players may request access to or deletion of their data by contacting [support@velesstudio.space](mailto:support@velesstudio.space).
+5. Veles Studio is committed to privacy protection and complies with GDPR regulations.
+
+---
+
+## §17. User-Generated Content
+
+1. Users retain the rights to content they create in-game (e.g. reports, LINK-13 voice), but grant Veles Studio a non-exclusive right to analyze, moderate, and use such content for research and development purposes.
+2. Publishing content that violates the law, good practices, or third-party rights is strictly forbidden.
+
+---
+
+Thank you for being a part of Escape The Truth.
+You are the whisper that may awaken reality.
