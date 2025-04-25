@@ -103,4 +103,14 @@ Cel: Zarchiwizowanie wszystkich zatwierdzonych i planowanych mechanik do rozwini
 
 ---
 
+## 20. AR drużynowy: Wspólna percepcja i synchronizacja graczy
+- Dwóch lub więcej graczy w zasięgu lokalizacji widzi tę samą rozszerzoną rzeczywistość (AR).
+- Jeśli skierują kamery na siebie nawzajem, system wykrywa obecność gracza.
+- Wspólna analiza lokacji: wskazywanie miejsc, podpowiedzi, synchronizowane rytuały drużynowe.
+- Możliwość rozwoju rytuałów sprzężonych, wspólnego odkrywania ukrytych stref lub aktywacji specjalnych efektów.
+- Wymaga synchronizacji przez Firebase (lub podobny system) i współdzielenia danych sesji AR.
+- Status: zaplanowane do wdrożenia po MVP.
+
+---
+
 **Status:** Wszystkie punkty zatwierdzone do wdrożenia po MVP.
