@@ -1,5 +1,5 @@
 # Regulamin gry „Escape The Truth”
-*Wersja: 1.0 | Ostatnia aktualizacja: 2025-04-12*
+*Wersja: 1.3 | Ostatnia aktualizacja: 2025-04-28*
 
 ---
 
