@@ -1,5 +1,5 @@
 # Escape The Truth – Game Rules
-*Version: 1.0 | Last updated: 2025-04-12*
+*Version: 1.3 | Last updated: 2025-04-28*
 
 ---
 
