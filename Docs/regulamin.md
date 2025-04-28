@@ -147,5 +147,28 @@ Wszystkie postacie, organizacje, wydarzenia, nazwy własne i rytuały przedstawi
 
 ---
 
+## §18. Bezpieczeństwo podczas korzystania z urządzenia
+
+1. Gracz jest odpowiedzialny za bezpieczne korzystanie z urządzenia mobilnego w trakcie rozgrywki.
+2. Veles Studio nie ponosi odpowiedzialności za wypadki lub szkody wynikające z nieostrożnego użycia urządzenia, np. podczas spaceru, jazdy rowerem, prowadzenia pojazdu.
+3. Zaleca się zachowanie szczególnej uwagi podczas poruszania się w przestrzeni publicznej.
+
+---
+
+## §19. Ograniczenia wiekowe
+
+1. Ze względu na treści mroczne, psychologiczne i kryminalne, gra „Escape The Truth” jest zalecana dla osób powyżej 16 roku życia.
+2. Instalacja i użytkowanie gry przez osoby młodsze odbywa się za zgodą i pod nadzorem opiekuna prawnego.
+
+---
+
+## §20. Siła wyższa
+
+1. Veles Studio nie ponosi odpowiedzialności za przerwy w działaniu gry spowodowane siłą wyższą, taką jak awarie systemów, klęski żywiołowe, działania wojenne, ataki cybernetyczne lub decyzje administracyjne niezależne od twórców.
+2. W przypadku wystąpienia siły wyższej, możliwe jest czasowe zawieszenie działania gry bez wcześniejszego powiadomienia.
+
+---
+
+
 **Dziękujemy za bycie częścią świata Escape The Truth.  
 Jesteś szeptem, który może przebudzić rzeczywistość.**
