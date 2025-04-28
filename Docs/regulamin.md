@@ -85,11 +85,6 @@ Wszystkie postacie, organizacje, wydarzenia, nazwy własne i rytuały przedstawi
 
 ---
 
-**Dziękujemy za bycie częścią świata Escape The Truth.  
-Jesteś szeptem, który może przebudzić rzeczywistość.**
-
----
-
 ## §12. Testy wersji beta i MVP
 
 1. Udział w testach wersji beta (zamkniętej lub otwartej) oraz MVP gry „Escape The Truth” oznacza akceptację niniejszego regulaminu oraz zasad przekazanych testerom drogą mailową, Discord lub wewnątrz aplikacji.
@@ -152,5 +147,5 @@ Jesteś szeptem, który może przebudzić rzeczywistość.**
 
 ---
 
-Dziękujemy za bycie częścią świata Escape The Truth.
-Jesteś szeptem, który może przebudzić rzeczywistość.
+**Dziękujemy za bycie częścią świata Escape The Truth.  
+Jesteś szeptem, który może przebudzić rzeczywistość.**
