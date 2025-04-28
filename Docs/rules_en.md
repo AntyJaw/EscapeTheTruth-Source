@@ -150,5 +150,27 @@ You are the whisper that may awaken reality.**
 
 ---
 
+## §18. Device Usage Safety
+
+1. Players are fully responsible for the safe use of their mobile devices during gameplay.
+2. Veles Studio is not liable for any accidents or damages resulting from careless use of a device, such as while walking, cycling, or driving.
+3. Players are strongly advised to stay aware of their surroundings when playing in public spaces.
+
+---
+
+## §19. Age Restrictions
+
+1. Due to dark, psychological, and crime-related content, "Escape The Truth" is recommended for players aged 16 and above.
+2. Installation and use of the game by younger individuals must occur with the consent and supervision of a legal guardian.
+
+---
+
+## §20. Force Majeure
+
+1. Veles Studio is not responsible for interruptions or disruptions in the game's operation caused by force majeure events such as system failures, natural disasters, acts of war, cyberattacks, or administrative decisions beyond the developers' control.
+2. In the event of force majeure, the game’s operation may be temporarily suspended without prior notice.
+
+---
+
 Thank you for being a part of Escape The Truth.
 You are the whisper that may awaken reality.
