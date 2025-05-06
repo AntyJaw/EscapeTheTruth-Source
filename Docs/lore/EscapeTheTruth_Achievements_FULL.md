@@ -1,0 +1,36 @@
+| ID | PL | Opis PL | EN | Description EN | Kategoria | Rzadkość | Prestige | Ikona | Ukryte |
+|----|----|----------|----|----------------|-----------|----------|----------|--------|--------|
+| ACH_001 | Przebudzenie | Ukończ przesilenie Welesa | Awakening | Complete the Weles solstice | Fabuła | Rzadkie | 50 | 🌒 | False |
+| ACH_002 | Echo matki | Ukończ przesilenie Mokosz | Mother's Echo | Complete the Mokosz solstice | Fabuła | Rzadkie | 50 | 🕯️ | False |
+| ACH_003 | Szept lasu | Ukończ przesilenie Leszego | Whisper of the Forest | Complete the Leszy solstice | Fabuła | Rzadkie | 50 | 🌲 | False |
+| ACH_004 | Grom prawdy | Ukończ przesilenie Peruna | Thunder of Truth | Complete the Perun solstice | Fabuła | Mistyczne | 100 | ⚡ | False |
+| ACH_005 | Widmo przeszłości | Odkryj transmisję Persona-13 | Phantom of the Past | Discover a Persona-13 transmission | Ezoteryka | Mistyczne | 75 | 🎙️ | True |
+| ACH_006 | Oko w ciemności | Aktywuj ezoterykę po raz pierwszy | Eye in the Dark | Activate esoterics for the first time | Ezoteryka | Popularne | 20 | 👁️ | False |
+| ACH_007 | Prawda przez szept | Ukończ misję specjalną przez LINK-13 | Truth Through Whisper | Complete a special mission via LINK-13 | Kooperacja | Rzadkie | 30 | 🗝️ | False |
+| ACH_008 | Zobaczyć to, co ukryte | Odkryj fałszywy dowód | See the Hidden | Uncover a false clue | Eksploracja | Rzadkie | 30 | 🔍 | True |
+| ACH_009 | Nowicjusz Zakonu | Osiągnij poziom 5 | Order Novice | Reach level 5 | Rozwój | Popularne | 10 | 📘 | False |
+| ACH_010 | Detektyw Esencji | Osiągnij poziom 10 | Essence Detective | Reach level 10 | Rozwój | Popularne | 20 | 📗 | False |
+| ACH_011 | Mistrz tropów | Osiągnij maksymalny poziom jednej klasy | Master of Trails | Reach max level in one class | Rozwój | Rzadkie | 40 | 🧭 | False |
+| ACH_012 | Zmienność jaźni | Zmień klasę postaci po sezonie | Shifting Identity | Change your character class after a season | Systemowe | Rzadkie | 25 | ♻️ | False |
+| ACH_013 | Zjednoczenie drużyny | Weź udział w misji kooperacyjnej z 3 różnymi klasami | Team Unification | Join a co-op mission with 3 different classes | Kooperacja | Rzadkie | 30 | 🤝 | False |
+| ACH_014 | Strażnik Runy | Odblokuj pierwszą runę | Rune Keeper | Unlock your first rune | Ezoteryka | Popularne | 15 | 🔮 | False |
+| ACH_015 | Krąg Szeptów | Odblokuj wszystkie podstawowe runy | Circle of Whispers | Unlock all basic runes | Ezoteryka | Mistyczne | 60 | 🌀 | False |
+| ACH_016 | Runa Wewnętrzna | Odblokuj ukrytą runę w Księdze Obłędu | Inner Rune | Unlock a hidden rune in the Book of Madness | Ezoteryka | Mistyczne | 50 | 🧠 | True |
+| ACH_017 | Widzenie przez Mgłę | Zidentyfikuj dowód w warstwie emocjonalnej | Sight Through Fog | Identify evidence in the emotional layer | Ezoteryka | Rzadkie | 25 | 🌫️ | False |
+| ACH_018 | Zew Pentagramu | Uczestnicz w rytuale pięciu graczy | Call of the Pentagram | Participate in a five-player ritual | Ezoteryka | Mistyczne | 60 | 🔺 | False |
+| ACH_019 | Zatrzymany Szept | Powstrzymaj efekt szaleństwa za pomocą rytuału | Silenced Whisper | Stop madness effect via ritual | Ezoteryka | Rzadkie | 30 | 🤫 | False |
+| ACH_020 | Wbrew Logice | Rozwiąż misję ignorując główny trop | Against Logic | Solve a case ignoring the main lead | Eksploracja | Rzadkie | 20 | 🧩 | False |
+| ACH_021 | Ramię w Ramię | Odkryj dowód dzięki współpracy 2 graczy | Side by Side | Find clue through 2-player cooperation | Kooperacja | Popularne | 25 | 🤝 | False |
+| ACH_022 | Czas Zatrzymany | Ukończ misję w mniej niż 5 minut | Time Stopped | Complete a mission in under 5 minutes | Eksploracja | Popularne | 15 | ⏱️ | False |
+| ACH_023 | Echo Dowodu | Znajdź dowód powiązany z przeszłą sprawą | Echo of Evidence | Find clue linked to past case | Eksploracja | Rzadkie | 30 | 🔁 | False |
+| ACH_024 | Kanał Widmowy | Odezwij się przez LINK-13 przy wysokim szaleństwie | Phantom Channel | Use LINK-13 under high madness | LINK-13 | Mistyczne | 35 | 📡 | False |
+| ACH_025 | Mentor Cienia | Poprowadź nowego gracza przez jego pierwszą misję | Shadow Mentor | Guide a new player through first mission | Kooperacja | Popularne | 20 | 👤 | False |
+| ACH_026 | Tłumienie Zakłóceń | Wycisz zbugowaną transmisję przez rytuał | Disruption Dismissed | Mute corrupted transmission via ritual | LINK-13 | Rzadkie | 30 | 🧯 | False |
+| ACH_027 | Brak Osłony | Wykonaj misję przy ulewie lub śnieżycy | No Shelter | Complete mission in heavy rain or snow | Eksploracja | Rzadkie | 30 | 🌧️ | False |
+| ACH_028 | Koniec Dnia | Rozwiąż sprawę tuż przed północą | End of Day | Solve a case just before midnight | Eksploracja | Popularne | 15 | 🌙 | False |
+| ACH_029 | Mapa Obłędu | Odkryj 5 ezoterycznych punktów GPS | Map of Madness | Discover 5 esoteric GPS spots | Eksploracja | Rzadkie | 40 | 🗺️ | False |
+| ACH_030 | Portal Wezwany | Stwórz portal przesilenia w trybie stacjonarnym | Summoned Portal | Create a solstice portal in stationary mode | Ezoteryka | Mistyczne | 50 | 🌀 | False |
+| ACH_031 | Jaźń Pęknięta | Przeżyj rozpad tożsamości i powróć | Fractured Self | Survive identity fracture and return | Psychika | Mistyczne | 60 | 🧩 | False |
+| ACH_032 | Zaginiony Agent | Odtwórz wszystkie transmisje Persona-13 | Lost Agent | Replay all Persona-13 transmissions | Fabuła | Mistyczne | 80 | 🎞️ | False |
+| ACH_033 | Cień Prawdy | Odkryj tożsamość jednej z postaci Zakonu | Shadow of Truth | Discover the identity of a cult figure | Fabuła | Mistyczne | 75 | 🕯️ | False |
+| ACH_034 | Próba Oświecenia | Ukończ misję z maksymalnym poziomem ezoteryki i szaleństwa | Enlightenment Trial | Finish a mission at max esoterics and madness | Ezoteryka | Mistyczne | 100 | 👁️‍🗨️ | False |
