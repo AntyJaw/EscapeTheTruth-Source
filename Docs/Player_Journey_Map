@@ -1,0 +1,66 @@
+# 📜 Escape The Truth – Player Journey Map
+
+## Player Journey Map
+
+| Etap                     | Akcja gracza                        | Co gracz czuje?                     | Co gra powinna dostarczyć?                      |
+| ------------------------ | ----------------------------------- | ----------------------------------- | ----------------------------------------------- |
+| 1. Odkrycie              | Zobaczenie reklamy/strony gry       | Ciekawość, niepewność               | Tajemniczy teaser, ezoteryczna atmosfera        |
+| 2. Instalacja            | Pobranie i otwarcie gry             | Ekscytacja, lekkie napięcie         | Klimatyczny splash screen, intro narracyjne     |
+| 3. Pierwsze kroki        | Pierwsze zalogowanie, wybór profilu | Oczekiwanie, niepokój               | Prosty onboarding z wprowadzeniem w lore        |
+| 4. Pierwsza misja        | Rozpoczęcie śledztwa GPS/AR         | Eksploracja, rosnące napięcie       | Wprowadzenie anomalii, subtelne efekty AR       |
+| 5. Odkrycie anomalii     | Znalezienie runy lub śladu          | Satysfakcja, poczucie tajemnicy     | Efekt "przebicia rzeczywistości" przez AR       |
+| 6. Rozwój sprawy         | Łączenie dowodów, przesłuchania     | Ekscytacja, frustracja przy błędach | Rozbudowane śledztwa, system LINK-13            |
+| 7. Zwiększanie ezoteryki | Odkrywanie ukrytej warstwy          | Zadziwienie, fascynacja             | Przejścia runiczne, halucynacje, rozpad mapy    |
+| 8. Zakończenie sprawy    | Ukończenie przesilenia              | Satysfakcja, refleksja              | Mistyczne podsumowanie, zmiana w świecie gracza |
+
+---
+
+# 🎯 Problem Statement + Kluczowe Emocje
+
+## Problem Statement Escape The Truth
+
+**Jak możemy stworzyć grę śledczą AR, która nie tylko prowadzi gracza przez zagadki i śledztwa, ale też budzi w nim poczucie zanurzenia w ukrytą, mistyczną rzeczywistość, gdzie granica między fikcją a światem realnym zaciera się?**
+
+## Kluczowe emocje
+
+| Emocja      | W jakim momencie gry?                                  |
+| ----------- | ------------------------------------------------------ |
+| Tajemnica   | Na samym początku (teasery, intro, splash screen)      |
+| Niepokój    | Przy odkrywaniu anomalii i odczytach runicznych        |
+| Ekscytacja  | Gdy gracz odkrywa nową misję lub ukryty artefakt       |
+| Strach      | W AR, gdy świat się "przekrzywia", runy pulsują        |
+| Satysfakcja | Przy rozwiązaniu sprawy lub połączeniu dowodów         |
+| Fascynacja  | Gdy odkrywa ukryte przesilenia lub tajemne lokacje     |
+| Refleksja   | Po zakończeniu śledztwa, w podsumowaniu i retrospekcji |
+
+---
+
+# 📋 Plan testów immersji Escape The Truth
+
+## Test 1: Test pierwszego wrażenia
+
+* **Co mierzymy**: Czy intro gry od razu budzi klimat tajemnicy.
+* **Metoda**: 5 graczy odpala pierwszy raz grę. Po 1 minucie – pytanie: "Co czujesz? Co zapamiętałeś?"
+
+## Test 2: Test immersji w terenie (AR + GPS)
+
+* **Co mierzymy**: Czy odkrywanie anomalii AR wywołuje wrażenie "przebicia rzeczywistości".
+* **Metoda**: Gracz idzie do punktu anomalii. Ankieta po wykonaniu: "Czy czułeś, że dzieje się coś dziwnego? Skala 1-5."
+
+## Test 3: Test szaleństwa i ezoteryki
+
+* **Co mierzymy**: Czy rosnący poziom ezoteryki wpływa na odczucia.
+* **Metoda**: Gracz gra 3–5 misji pod rząd. Po sesji: "Czy czułeś zmianę atmosfery?"
+
+## Test 4: Test końca sprawy
+
+* **Co mierzymy**: Czy zakończenie misji jest emocjonalnie satysfakcjonujące.
+* **Metoda**: Po ukończeniu przesilenia: "Co zapamiętałeś najbardziej? Czy miałeś poczucie, że coś się zmieniło?"
+
+---
+
+# ✅ Szybka lista kontrolna testów immersji
+
+* Czy gracz czuje: ciekawość → niepokój → fascynację → refleksję?
+* Czy zasady są intuicyjne?
+* Czy AR i dźwięki są naturalną częścią świata gry?
