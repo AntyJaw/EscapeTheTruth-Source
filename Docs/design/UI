@@ -1,0 +1,123 @@
+1. Ekran główny (Mobile + PC)
+Logo gry (Veles Studio / Escape The Truth).
+
+Menu główne:
+
+Nowa Gra / Kontynuuj.
+
+Misje Dzienne.
+
+Moje Sprawy (archiwum spraw).
+
+Profil Gracza (statystyki, osiągnięcia, progres ezoteryczny).
+
+Ustawienia (język, dźwięk, grafika, dostępność).
+
+Wyjście.
+
+(Tło: mgła + rozświetlona runa przebudzenia, delikatne efekty świetlne)
+
+2. Ekran misji (Mobile + PC)
+Lista aktywnych spraw:
+
+Ikona sprawy (np. runa, symbol anomalii).
+
+Krótki opis (np. „Zanikanie w sektorze IV”).
+
+Status: Aktywna / W trakcie / Zamknięta.
+
+Mapa misji (przydzielona lokalizacja GPS lub wybór lokalizacji).
+
+Start Śledztwa (przycisk).
+
+(Motyw: tablica śledcza + stare dokumenty)
+
+3. Interfejs śledztwa w terenie (Mobile głównie)
+Mapa GPS z:
+
+Punktem anomalii.
+
+Trasą sugerowaną.
+
+Informacjami z LINK-13.
+
+Aktywny tryb AR:
+
+Skany anomalii.
+
+Odczyty run.
+
+Ukryte elementy (widoczne tylko przez AR).
+
+(Płynne przejście między widokiem mapy a widokiem AR)
+
+4. Interfejs LINK-13 (Mobile + PC)
+Ekran wiadomości:
+
+Otrzymane wiadomości od NPC / systemu.
+
+Odczyty anomalii.
+
+Transmisje głosowe i tekstowe.
+
+Ekran danych dowodowych:
+
+Zdjęcia.
+
+Odczyty (UV, EM, Echo).
+
+(UI inspirowany starym komunikatorem – prosto, ale tajemniczo)
+
+5. Interfejs dowodów (PC + Mobile)
+Obracanie dowodów w 3D/AR.
+
+Tryby analizy:
+
+Fizyczny.
+
+UV.
+
+Emocjonalny.
+
+Runiczny.
+
+Przycisk „Dodaj do Tablicy” (łączenie dowodów).
+
+6. Tablica dowodowa (główna mapa sprawy – PC i Mobile)
+Dowody jako przypięte punkty.
+
+Połączenia między dowodami (wątek śledczy).
+
+Podgląd run/anomalii.
+
+Oznaczenie fałszywych tropów (specjalnym symbolem).
+
+(Stylistyka: detektywistyczna, lekko rozmyte tło, lekkie efekty dymu)
+
+7. Ekran Profilu Gracza (Mobile + PC)
+Statystyki:
+
+Postęp misji.
+
+Poziom szaleństwa / ezoteryki.
+
+Zdobyte artefakty.
+
+Ekran osiągnięć:
+
+Popularne / rzadkie / mistyczne osiągnięcia.
+
+Personalizacja:
+
+Awatar (np. runa, symbol ezoteryczny).
+
+Wybór stylu komunikatora LINK-13.
+
+📐 Krótki podział funkcjonalny na Mobile i PC
+Funkcja	Mobile	PC/Steam
+Mapa GPS i AR	✅	❌
+Tablica dowodowa	✅	✅
+Profil gracza	✅	✅
+System wiadomości LINK-13	✅	✅
+Analiza dowodów	✅	✅
+Śledztwa dzienne i sezonowe	✅	✅
